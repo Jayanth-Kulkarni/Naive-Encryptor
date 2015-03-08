@@ -1,4 +1,13 @@
-﻿using System;
+﻿/****************************************************************************
+ Name        : Naive-Encryptor
+ Author      : Jayanth Prakash Kulkarni
+ Copyright   : Copyright Mr Jayanth Prakash Kulkarni © 2015
+ Description : Language c#
+ ***************************************************************************/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,6 +16,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
+
+
 
 namespace encryptor
 {
